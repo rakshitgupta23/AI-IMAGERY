@@ -8,17 +8,17 @@ An end-to-end AI-powered solution that extracts and enhances product images from
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Tech Stack](#tech-stack)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Setup & Installation](#setup--installation)
-- [Usage](#usage)
-- [API Documentation](#api-documentation)
-- [Design Decisions](#design-decisions)
-- [Challenges & Solutions](#challenges--solutions)
-- [Time Breakdown](#time-breakdown)
-- [Future Improvements](#future-improvements)
+- Overview
+- Tech Stack
+- Features
+- Architecture
+- Setup & Installation
+- Usage
+- API Documentation
+- Design Decisions
+- Challenges & Solutions
+- Time Breakdown
+- Future Improvements
 
 ---
 
